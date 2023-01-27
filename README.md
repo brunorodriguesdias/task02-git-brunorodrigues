@@ -30,4 +30,4 @@ Comandos novos foram tantos que me perco até de por onde começar kkkk
 `git status` - verificar o status (esse eu já conhecia mas não usava tanto kkkk)
 
 ### Encerramento  
-Gostaria de agradecer pelas aulas e pela paciência kkkk, gostei muito e sinto que evolui bastante nesses dois dias com as dinâmicas, tasks, metodologia de ensino e com a interação com os colegas, enfim só tenho a agradecer! 
+Gostaria de agradecer pelas aulas e pela paciência kkkk, gostei muito e sinto que evolui bastante nesses dois dias com as dinâmicas, tasks, metodologia de ensino e com a interação com os colegas, enfim só tenho a agradecer!  
